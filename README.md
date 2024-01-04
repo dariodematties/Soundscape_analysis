@@ -1,5 +1,7 @@
 # Soundscape analysis
 
+Cite this code at: [![DOI](https://zenodo.org/badge/576046460.svg)](https://zenodo.org/doi/10.5281/zenodo.10459762)
+
 ## Generating images of spectrograms from an audio file
 
 ```
